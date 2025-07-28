@@ -9,7 +9,7 @@ This project analyzes a telecom company’s customer data to identify churn patt
 
 ## Dataset Summary
 - 7043 rows, 21 columns
-- Key features: gender, tenure, contract type, etc.
+- Key features: gender, tenure, contract type, etc. 
 
 ## Key Questions
 - What factors influence churn?
